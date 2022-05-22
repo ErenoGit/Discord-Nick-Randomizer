@@ -10,7 +10,7 @@ Application automatically changes nickname on the specified Discord server, rand
 3. Click on one of the servers in the list to select it.
 4. Enter a list of nicknames in the "List of nicknames" field.
 5. If you want the nicknames to change one by one, in the order you entered them in the list, check the "Set nicks in specified sequence" checkbox.
-6. If you want, change the value in the "Number of seconds how often to change nickname" field.
+6. If you want, change the value in the "Number of seconds how often to change nickname" field (minimum 60 seconds is strongly recommended, for smaller values discord quickly blocks ability to change your nick temporarily).
 7. Click "Start!"! Done.
 (Optionally) You can minimize the application and it will enter the tray.
 
