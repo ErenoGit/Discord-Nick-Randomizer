@@ -1,5 +1,6 @@
 # Discord Nick Randomizer
 ![bagde](https://img.shields.io/github/languages/top/ErenoGit/Calamari-Monthly-Report-Of-Holidays-And-Sickness) ![bagde2](https://img.shields.io/badge/.NET%20Framework-4.6.2-blue) 
+
 Application automatically changes nickname on the specified Discord server, randomly or in sequence from the list of nicknames entered.
 <p align="center"><img src="https://i.imgur.com/5tjEn6i.png"></p>
 
